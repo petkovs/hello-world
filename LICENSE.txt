@@ -1,0 +1,2 @@
+Sample License file
+Version line to be written here
