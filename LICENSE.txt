@@ -1,2 +1,4 @@
 Sample License file
 Version line to be written here
+
+Here goes the text of the license
